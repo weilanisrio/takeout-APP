@@ -1,0 +1,353 @@
+.Bookcenter
+{
+    width:7.5rem;
+    height:13.34rem;
+    margin:0 auto;
+    position: relative;
+}
+.Bookcenter .BookBar
+{
+    width:7.5rem;
+    height:0.4rem;
+    background-image: linear-gradient(90deg, #5df1a6 0%, #34d262 50%, #0db31f 100%), linear-gradient(#000000, #000000);
+    background-blend-mode: normal,
+    normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BookBar img
+{
+    width:7rem;
+    height:0.23rem;
+}
+.Bookcenter .BookTop
+{
+    width:7.5rem;
+    height:0.88rem;
+    background-image: linear-gradient(90deg, #5df1a6 0%, #34d262 50%, #0db31f 100%), linear-gradient(#000000, #000000);
+    background-blend-mode: normal,
+    normal;
+    position: relative;
+}
+.BookTop h4
+{
+    width: 1.36rem;
+    height: 0.33rem;
+    font-size: 0.34rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.88rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin:0 auto;
+}
+.BookTop .BookTopC
+{
+    width:0.33rem;
+    height:0.06rem;
+    position: absolute;
+    bottom:0.15rem;
+    left:3.63rem;
+}
+.BookTopC .BookTopC1
+{
+    width: 0.02rem;
+    height: 0.02rem;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-top:0.02rem;
+    margin-right:0.03rem;
+    float:left;
+}
+.BookTopC .BookTopC2
+{
+    width: 0.04rem;
+    height: 0.04rem;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-top:0.01rem;
+    margin-right:0.03rem;
+    float:left;
+}
+.BookTopC .BookTopC3
+{
+    width: 0.06rem;
+    height: 0.06rem;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-right:0.03rem;
+    float:left;
+}
+.Bookcenter .header
+{
+    width:7.5rem;
+    height:3.27rem;
+    position: relative;
+}
+.header .foodTui
+{
+    width: 1.98rem;
+    height: 0.59rem;
+    background-image: linear-gradient(90deg, #81f536 0%, #49cec2 100%);
+    border-radius: 0 0.5rem 0.5rem 0;
+    position: absolute;
+    top:0.32rem;
+}
+.foodTui p
+{
+    width: 1.28rem;
+    height: 0.31rem;
+    font-size: 0.32rem;
+    line-height: 0.59rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin:0 auto;
+}
+.header .foodTui1
+{
+    width:7.02rem;
+    height:1.4rem;
+    position: absolute;
+    top:1.34rem;
+    left:0.24rem;
+}
+.foodTui1 .foodTui2
+{
+    width: 3.40rem;
+    height: 1.4rem;
+    background-color: #ffffff;
+    box-shadow: 0 -2px 16px 0 #e7e7e7;
+    border-radius: 0.11rem;
+    margin-right:0.22rem;
+    position: relative;
+    float:left;
+}
+.foodTui2 .foodTui3
+{
+    width:1.05rem;
+    height:1.05rem;
+    position: absolute;
+    top:0.17rem;
+    left:0.25rem;
+}
+.foodTui2 .p1
+{
+    font-size: 0.24rem;
+    line-height: 0.38rem;
+    letter-spacing: 0;
+    color: #737373;
+    position: absolute;
+    top:0.41rem;
+    right:0.47rem;
+}
+.foodTui2 .p2
+{
+    font-size: 0.26rem;
+    line-height: 0.29rem;
+    letter-spacing: 0;
+    color: #b8b8b8;
+    position: absolute;
+    bottom:0.31rem;
+    right:0.26rem;
+}
+ .foodTui1 li:last-child
+{
+    margin-right:0;
+}
+.Bookcenter .middle
+{
+    width:7.5rem;
+    height:6.41rem;
+    position: relative;
+}
+.middle .BookHistory
+{
+    width: 1.98rem;
+    height: 0.59rem;
+    background-image: linear-gradient(90deg, #81f536 0%, #49cec2 100%);
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+.BookHistory p
+{
+    width: 1.28rem;
+    height: 0.31rem;
+    font-size: 0.32rem;
+    line-height: 0.59rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin:0 auto;
+}
+.middle .BookHistory1
+{
+    width:7.02rem;
+    height:5.39rem;
+    position: absolute;
+    top:1.02rem;
+    left:0.24rem;
+}
+.BookHistory1 .BookHistory2
+{
+    width:7.02rem;
+    height:5.39rem;
+}
+.BookHistory2 .BookHistory3
+ {
+     width: 7.02rem;
+     height: 1.61rem;
+     background-color: #ffffff;
+     box-shadow: 0 -2px 16px 0 #e7e7e7;
+     border-radius: 0.15rem;
+     margin-bottom:0.28rem;
+     position: relative;
+ }
+.BookHistory3 .BookHistory4
+{
+    width:1.29rem;
+    height:1.29rem;
+    position: absolute;
+    top:0.16rem;
+    left:0.14rem;
+}
+.BookHistory3 .p1
+{
+    font-size: 0.28rem;
+    letter-spacing: 0;
+    color: #585858;
+    position: absolute;
+    top:0.29rem;
+    left:1.62rem;
+}
+.BookHistory3 .p1
+{
+    font-size: 0.28rem;
+    letter-spacing: 0;
+    color: #585858;
+    position: absolute;
+    top:0.29rem;
+    left:1.62rem;
+}
+.BookHistory3 .p4
+{
+    font-size: 0.28rem;
+    letter-spacing: 0;
+    color: #585858;
+    position: absolute;
+    top:0.29rem;
+    left:1.62rem;
+}
+.BookHistory3 .p2
+{
+    font-size: 0.2rem;
+    line-height: 0.34rem;
+    letter-spacing: 0;
+    color: #b8b8b8;
+    position: absolute;
+    top:0.66rem;
+    left:1.62rem;
+}
+.BookHistory3 .BookCircle
+{
+    width:1.8rem;
+    height:0.02rem;
+    position: absolute;
+    top:1.03rem;
+    left:1.62rem;
+}
+.BookCircle .BookCircle1
+{
+    width: 0.02rem;
+    height: 0.02rem;
+    background-color: #cccccc;
+    margin-right:0.04rem;
+    border-radius: 50%;
+    float:left;
+}
+.BookCircle3 .BookCircle2
+{
+    width: 0.02rem;
+    height: 0.02rem;
+    background-color: #a3a3a3;
+    margin-right:0.04rem;
+    border-radius: 50%;
+    float:left;
+}
+.BookHistory3 .p3
+{
+    font-size: 0.2rem;
+    letter-spacing: 0;
+    color: #8d8d8d;
+    position: absolute;
+    top:1.11rem;
+    left:1.62rem;
+}
+.BookHistory3 .p4
+{
+    font-size: 0.2rem;
+    line-height: 0.34rem;
+    letter-spacing: 0;
+    color: #b8b8b8;
+    position: absolute;
+    top:0.66rem;
+    left:2.71rem;
+}
+.BookHistory3 .Booking1
+{
+    width: 1.05rem;
+    height: 0.41rem;
+    background-image: linear-gradient(0deg, #81f536 0%, #49cec2 100%);
+    border-radius: 0.5rem;
+    position: absolute;
+    right:0.24rem;
+    bottom:0.36rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Booking1 p
+{
+    font-size: 0.2rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    line-height: 0.41rem;
+    margin:0 auto;
+}
+.footer
+{
+    width:7.5rem;
+    height:0.98rem;
+    background-image: linear-gradient(#ffffff, #ffffff), linear-gradient(#000000, #000000);
+    background-blend-mode: normal, normal;
+    box-shadow: 0 -2px 16px 0 #ebebeb;
+    position: absolute;
+    bottom:0;
+
+}
+.footer1
+{
+    width:0.52rem;
+    height:0.74rem;
+    float:left;
+    margin:0.11rem 0.67rem 0.35rem;
+}
+.footer1 a img
+{
+    width:0.52em;
+    height:0.52rem;
+    /*margin:0.11rem 0.67rem 0.35rem;*/
+    line-height:0.98rem;
+    /*float:left;*/
+    display:flex;
+    justify-content: space-between;
+}
+.footer1 p
+{
+    font-size: 0.18rem;
+    color: #b7b7b7;
+    text-align: center;
+    margin-top:0.05rem;
+}
+
+
+
+

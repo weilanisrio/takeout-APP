@@ -1,0 +1,415 @@
+.Payment
+{
+    width:7.5rem;
+    height:13.34rem;
+    margin:0 auto;
+}
+.Payment .PaymentBar
+{
+    width:7.5rem;
+    height:0.4rem;
+    background-image: linear-gradient(90deg, #5df1a6 0%, #34d262 50%, #0db31f 100%), linear-gradient(#000000, #000000);
+    background-blend-mode: normal,
+    normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.PaymentBar img
+{
+    width:7rem;
+    height:0.23rem;
+}
+.Payment .PaymentHeader
+{
+    width:7.5rem;
+    height:1.67rem;
+    background-image: linear-gradient(90deg, #5df1a6 0%, #34d262 50%, #0db31f 100%), linear-gradient(#000000, #000000);
+    background-blend-mode: normal,
+    normal;
+    position: relative;
+}
+.PaymentHeader .PaymentHeader1
+{
+    width:7.02rem;
+    height:1.67rem;
+    margin:0 auto;
+}
+.PaymentHeader1 span
+{
+    width:0.18rem;
+    height: 0.29rem;
+    color: #fffeff;
+    font-family:"iconfont";
+    font-size:0.3rem;
+    position: absolute;
+    top:0.28rem;
+}
+.PaymentHeader1 h3
+{
+    font-size: 0.50rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #ffffff;
+    position: absolute;
+    top:0.96rem;
+}
+.Payment .middle
+{
+    width:7.5rem;
+    height:3.75rem;
+    position: relative;
+}
+.middle .circle
+{
+    width:0.19rem;
+    height:0.08rem;
+    position: absolute;
+    top:0.62rem;
+    left:0.24rem;
+}
+.circle .circle1
+{
+    width:0.08rem;
+    height:0.08rem;
+    background-color: #985de5;
+    margin-right:0.03rem;
+    float:left;
+    border-radius: 0.1rem;
+}
+.circle .circle2
+{
+    width:0.08rem;
+    height:0.08rem;
+    background-color: #d6bef5;
+    border-radius:0.1rem;
+    float:left;
+}
+.middle .p
+{
+    font-size:0.26rem;
+    letter-spacing: 0;
+    color: #b8b8b8;
+    position: absolute;
+    top:0.48rem;
+    left:0.52rem;
+}
+.middle .p1
+{
+    font-size:0.3rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing:0;
+    color: #ffcfd4;
+    position: absolute;
+    top:0.44rem;
+    right:1.47rem;
+}
+.middle .p2
+{
+    font-size:0.48rem;
+    letter-spacing: 0;
+    color: #ff2b4e;
+    position: absolute;
+    top:0.27rem;
+    right:0.4rem;
+}
+.middle .Price
+{
+    width:4.3rem;
+    height:0.28rem;
+    background: #669900;
+    position: absolute;
+    right:0.24rem;
+    top:0.91rem;
+}
+.PriceY
+{
+    width:0.62rem;
+    height:0.28rem;
+    background-image: linear-gradient(0deg, #78ee4e 0%, #49cec1 100%);
+    border-radius: 14px;
+    position: absolute;
+    top:1rem;
+    left:2.96rem;
+}
+.PriceY p
+{
+    font-size: 0.18rem;
+    letter-spacing: 0;
+    color:#ffffff;
+    text-align: center;
+    line-height:0.28rem;
+    margin:0 auto;
+}
+.middle .p3
+{
+    font-size: 0.28rem;
+    letter-spacing: 0;
+    color: #cacaca;
+    position:absolute;
+    top:0.95rem;
+    right:3.26rem;
+}
+.middle .p4
+{
+    font-size: 0.30rem;
+    letter-spacing: 0;
+    color: #8d8d8d;
+    position:absolute;
+    top:0.92rem;
+    right:2.55rem;
+}
+.PriceX
+{
+    width:0.62rem;
+    height:0.28rem;
+    background-image: linear-gradient(0deg, #78ee4e 0%, #49cec1 100%);
+    border-radius: 14px;
+    position: absolute;
+    top:1rem;
+    right:1.7rem;
+}
+.PriceX p
+{
+    font-size: 0.18rem;
+    letter-spacing: 0;
+    color:#ffffff;
+    text-align: center;
+    line-height:0.28rem;
+    margin:0 auto;
+}
+.middle .p5
+{
+    font-size: 0.28rem;
+    letter-spacing: 0;
+    color: #cacaca;
+    position:absolute;
+    top:0.95rem;
+    right:1.06rem;
+}
+.middle .p6
+{
+    font-size: 0.30rem;
+    letter-spacing: 0;
+    color: #8d8d8d;
+    position:absolute;
+    top:0.92rem;
+    right:0.36rem;
+}
+.middle .middleLine
+{
+    width: 7.02rem;
+    height: 0.02rem;
+    background-color: #b8b8b8;
+    position: absolute;
+    left:0.24rem;
+    top:1.53rem;
+}
+.Wechat1
+{
+    width:3.45rem;
+    height:1.4rem;
+       position: absolute;
+       top:2rem;
+       left:0.24rem;
+}
+.Wechat2
+{
+    width:0.67rem;
+    height:0.67rem;
+    position: absolute;
+    top:2.36rem;
+    left:0.59rem;
+}
+.middle .p7
+{
+    font-size: 0.22rem;
+    letter-spacing: 0;
+    color: #8d8d8d;
+    position: absolute;
+    top:2.4rem;
+    left:1.45rem;
+}
+.middle .p8
+{
+    font-size: 0.24rem;
+    letter-spacing: 0;
+    color: #eeeeee;
+    position: absolute;
+    top:2.65rem;
+    left:1.45rem;
+}
+.Wechat3
+{
+    width:3.45rem;
+    height:1.4rem;
+    position: absolute;
+    top:2rem;
+    right:0.24rem;
+}
+.Wechat4
+{
+    width:0.67rem;
+    height:0.67rem;
+    position: absolute;
+    top:2.36rem;
+    right:2.66rem;
+}
+.middle .p9
+{
+    font-size: 0.22rem;
+    letter-spacing: 0;
+    color: #8d8d8d;
+    position: absolute;
+    top:2.4rem;
+    right:1.6rem;
+}
+.middle .p10
+{
+    font-size: 0.24rem;
+    letter-spacing: 0;
+    color: #eeeeee;
+    position: absolute;
+    top:2.65rem;
+    right:1.06rem;
+}
+.Payment .PaymentG
+{
+    width:7.5rem;
+    height:3.65rem;
+}
+.PaymentG .PaymentG1
+{
+    width: 2.49rem;
+    height: 0.59rem;
+    background-image: linear-gradient(90deg, #78ee4e 0%, #49cec1 100%);
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+.PaymentG1 p
+{
+    font-size: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    line-height: 0.59rem;
+    text-align: center;
+    margin:0 auto;
+}
+.Payment .others
+{
+    width:7.02rem;
+    height:2.68rem;
+    margin-top:0.32rem;
+    margin-left:0.24rem;
+}
+.others .other1
+{
+    width: 7.02rem;
+    height: 1.20rem;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 0 rgba(200, 200, 200, 0.35), 0 -3px 13px 0 rgba(200, 200, 200, 0.35);
+    border-radius: 10px;
+    position: relative;
+    margin-bottom:0.14rem;
+}
+.other1 .circle1
+{
+    width: 0.68rem;
+    height: 0.68rem;
+    background-image: linear-gradient(0deg, #e1357e 0%, #fb6ab8 100%);
+    border-radius: 50%;
+    position: absolute;
+    top:0.26rem;
+    left:0.27rem;
+}
+.circle1 span
+{
+    width: 0.36rem;
+    height: 0.26rem;
+    font-size:0.36rem;
+    color:#ffffff;
+    font-family: "iconfont";
+    position: absolute;
+    top:0.15rem;
+    left:0.16rem;
+}
+.other1 .p1
+{
+    font-size: 0.22rem;
+    letter-spacing: 0;
+    color: #eeeeee;
+    position: absolute;
+    top:0.34rem;
+    left:1.23rem;
+}
+.other1 .p2
+{
+    font-size: 0.22rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #a3a3a3;
+    position: absolute;
+    top:0.6rem;
+    left:1.23rem;
+}
+.other1 .other2
+{
+    width: 0.69rem;
+    height: 0.41rem;
+    background-image: linear-gradient(0deg, #e1357e 0%, #fb6ab8 100%);
+    border-radius: 21px;
+    position: absolute;
+    top:0.38rem;
+    right:0.21rem;
+}
+.other2 p
+{
+    font-size: 0.26rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    line-height: 0.41rem;
+    text-align: center;
+    margin:0 auto;
+}
+.other1 .circle2
+{
+    width: 0.68rem;
+    height: 0.68rem;
+    background-image: linear-gradient(0deg, #44adfe 0%, #89d6ff 100%);
+    border-radius: 50%;
+    position: absolute;
+    top:0.26rem;
+    left:0.27rem;
+}
+.circle2 span
+{
+    width: 0.36rem;
+    height: 0.26rem;
+    font-size:0.36rem;
+    color:#ffffff;
+    font-family: "iconfont";
+    position: absolute;
+    top:0.15rem;
+    left:0.16rem;
+}
+.other1 .other3
+{
+    width: 0.69rem;
+    height: 0.41rem;
+    background-image: linear-gradient(0deg, #44adfe 0%, #89d6ff 100%);
+    border-radius: 21px;
+    position: absolute;
+    top:0.38rem;
+    right:0.21rem;
+}
+.other3 p
+{
+    font-size: 0.26rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    line-height: 0.41rem;
+    text-align: center;
+    margin:0 auto;
+}

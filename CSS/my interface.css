@@ -1,0 +1,442 @@
+.myPage
+{
+    width:7.5rem;
+    height:13.34rem;
+    margin: 0 auto;
+    position: relative;
+}
+.statusBar
+{
+    width:7rem;
+    height:0.23rem;
+    margin:0 auto;
+    position: absolute;
+    top:0.08rem;
+    left:0.24rem;
+    z-index: 999;
+}
+.statusBar img
+{
+    width:7rem;
+    height:0.23rem;
+}
+.bg1
+{
+    width:7.5rem;
+    height:7.12rem;
+    position:relative;
+}
+.bg1 .bg1-1
+{
+    width:7.5rem;
+    height:7.12rem;
+    position: absolute;
+    top:-0.08rem;
+}
+.bg1-2
+{
+    width:2.35rem;
+    height:2.15rem;
+    margin:0 auto;
+    position: absolute;
+    top:0.96rem;
+    left:2.54rem;
+}
+.bg1-2 img
+{
+    width:2.35rem;
+    height:2.15rem;
+}
+.wenzi1
+{
+
+    font-size: 0.42rem;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    position: absolute;
+    top:3.4rem;
+    left:3.16rem;
+}
+.wenzi2
+{
+
+    font-size: 0.24rem;
+    line-height: 0.5rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    position: absolute;
+    top:4rem;
+    left:1.52rem;
+}
+.wenzi3
+{
+
+    font-size: 0.24rem;
+    line-height: 0.5rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    position: absolute;
+    top:4.31rem;
+    left:2.63rem;
+}
+.xingList
+{
+    width:1.35rem;
+    height:0.3rem;
+    margin:0 auto;
+    position:absolute;
+    top:4.81rem;
+    left:2.97rem;
+}
+.xingList1
+{
+    width:1.35rem;
+    height:0.3rem;
+}
+.xingItem img
+{
+    width:0.28rem;
+    height:0.25rem;
+    float:left;
+    margin-right:0.05rem;
+}
+.collect1
+{
+    width:2.26rem;
+    height:0.65rem;
+    position: absolute;
+    top:5.3rem;
+    left:2.83rem;
+}
+
+.collect
+{
+    width:0.65rem;
+    height:0.65rem;
+    border-radius: 50%;
+    background: #50d3b0;
+    float:left;
+    margin-right:0.48rem;
+    font-family:"iconfont";
+}
+.collect1 .collect2
+{
+    width:0.35rem;
+    height:0.33rem;
+    color:#ffffff ;
+    margin:0 auto;
+    line-height:0.65rem;
+    font-size:0.36rem;
+}
+.collect1 .collect3
+{
+    width:0.34rem;
+    height:0.33rem;
+    color:#ffffff ;
+    margin:0 auto;
+    line-height:0.65rem;
+    font-size:0.38rem;
+}
+.MyStuff
+{
+    width: 3.6rem;
+    height: 0.96rem;
+    background-color: #ffffff;
+    box-shadow: 0 -0.02rem 0.16rem 0
+    #ebebeb;
+    border-radius: 0.48rem;
+    position: absolute;
+    top:6.5rem;
+    left:1.95rem;
+}
+.MyStuff h4
+{
+    width: 1.45rem;
+    height: 0.35rem;
+    font-size: 0.36rem;
+    line-height: 0.96rem;
+    letter-spacing: 0;
+    color: #9da2ff;
+    margin:0 auto;
+}
+.circle3
+{
+    width: 0.13rem;
+    height: 0.13rem;
+    position: absolute;
+    top:0.42rem;
+    left:0.32rem;
+}
+.circle1
+{
+    width: 0.13rem;
+    height: 0.13rem;
+    background-color: #ebecff;
+    border-radius: 50%;
+    position:relative;
+}
+.circle2
+{
+    width: 0.07rem;
+    height: 0.07rem;
+    background-color: #9da2ff;
+    border-radius: 50%;
+    line-height:0.13rem;
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+.circle5
+{
+    width: 0.13rem;
+    height: 0.13rem;
+    position: absolute;
+    top:0.42rem;
+    right:0.32rem;
+}
+.bottom
+{
+    width:7.02rem;
+    height:4.22rem;
+    margin-top:0.77rem;
+    margin-left:0.24rem;
+}
+.bottom1
+{
+    width:7.02rem;
+    height:0.95rem;
+    background-color: #ffffff;
+    box-shadow: 0px -2px 16px 0px
+    #ebebeb;
+    border-radius: 10px;
+    margin-bottom:0.14rem;
+    position:relative;
+}
+.bottom1 .Signon
+{
+    width: 0.59rem;
+    height: 0.59rem;
+    background-color: #ffffff;
+    box-shadow: 0px -2px 16px 0px
+    #ebebeb;
+    border-radius: 50%;
+    position: absolute;
+    top:0.18rem;
+    left:0.17rem;
+    float:left;
+}
+.Signon .Signon1
+{
+    width: 0.35rem;
+    height: 0.34rem;
+    color:#4090fb;
+    font-family: "iconfont";
+    font-size:0.34rem;
+   position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+.Signon .Signon3
+{
+    width: 0.32rem;
+    height: 0.27rem;
+    color: #fd4666;
+    font-family: "iconfont";
+    font-size:0.27rem;
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+.Signon .Signon5
+{
+    width: 0.35rem;
+    height: 0.34rem;
+    color: #787fff;
+    font-family: "iconfont";
+    font-size:0.34rem;
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+.Signon .Signon10
+{
+    width: 0.35rem;
+    height: 0.34rem;
+    color: #ffc021;
+    font-family: "iconfont";
+    font-size:0.34rem;
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+.bottom1 h3
+{
+    width: 1.56rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    line-height: 0.43rem;
+    letter-spacing: 0;
+    color: #8d8d8d;
+    position: absolute;
+    top:0.07rem;
+    left:0.99rem;
+}
+.Signon .Signon2
+{
+    width: 0.69rem;
+    height: 0.41rem;
+    background-image: linear-gradient(0deg,
+    #4090fb 0%,
+    #4cc7fb 100%);
+    border-radius: 0.21rem;
+    position:absolute;
+    top:0.07rem;
+    left:6.07rem;
+}
+.Signon .Signon4
+{
+    width: 0.69rem;
+    height: 0.41rem;
+    background-image: linear-gradient(90deg,
+    #fd466d 0%,
+    #fd4648 100%);
+    border-radius: 0.21rem;
+    position:absolute;
+    top:0.07rem;
+    left:6.07rem;
+}
+.Signon .Signon6
+{
+    width: 0.85rem;
+    height: 0.49rem;
+    background-color: #9da2ff;
+    border-radius: 25px;
+    position:absolute;
+    top:0.07rem;
+    left:5.91rem;
+}
+.Signon .Signon12
+{
+    width: 0.36rem;
+    height:0.08rem;
+    position:absolute;
+    top:0.25rem;
+    left:6.13rem;
+}
+.Signon .Signon11
+{
+    width:0.08rem;
+    height:0.08rem;
+    background-color: #dedede;
+    border-radius: 4px;
+    float:left;
+    margin-right:0.04rem;
+}
+.Signon6 .Signon7
+{
+    width: 0.43rem;
+    height: 0.43rem;
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    top:0.03rem;
+    left:0.04rem;
+}
+.Signon7 .Signon8
+{
+    width: 0.12rem;
+    height: 0.12rem;
+    background-color: #9da2ff;
+    border-radius: 50%;
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    margin:auto;
+}
+.Signon8 .Signon9
+{
+    width: 0.04rem;
+    height: 0.04rem;
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    margin:auto;
+}
+.Signon2 p
+ {
+     width: 0.13rem;
+     height: 0.19rem;
+     font-size: 0.26rem;
+     line-height: 0.41rem;
+     letter-spacing: 0;
+     color: #ffffff;
+     text-align:center;
+     margin-left:0.28rem;
+ }
+.Signon4 p
+{
+    width: 0.29rem;
+    height: 0.19rem;
+    font-size: 0.26rem;
+    line-height: 0.41rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    text-align:center;
+    margin-left:0.2rem;
+}
+.footer
+{
+    width:7.5rem;
+    height:0.98rem;
+    background-image: linear-gradient(#ffffff, #ffffff), linear-gradient(#000000, #000000);
+    background-blend-mode: normal, normal;
+    box-shadow: 0 -2px 16px 0 #ebebeb;
+    position: absolute;
+    bottom:0;
+}
+.footer1
+{
+    width:0.52rem;
+    height:0.74rem;
+    float:left;
+    margin:0.11rem 0.67rem 0.35rem;
+}
+.footer1 a img
+{
+    width:0.52em;
+    height:0.52rem;
+    /*margin:0.11rem 0.67rem 0.35rem;*/
+    line-height:0.98rem;
+    /*float:left;*/
+    display:flex;
+    justify-content: space-between;
+}
+.footer1 p
+{
+    font-size: 0.18rem;
+    color: #b7b7b7;
+    text-align: center;
+    margin-top:0.05rem;
+}
